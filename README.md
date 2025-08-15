@@ -1,4 +1,4 @@
-# Balshodhaka - Finding Strength 
+# Balshodhaka - Finding Strength - Form Brute Forcer
 This Tools Scan Websites Login Form for weak or breached passwords by performing controlled Brute-Force by a Wordlists.
 
 1) You may require to change the data_dict in the python file.
